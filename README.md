@@ -2,7 +2,7 @@
 - 👀 Now I am a second year student at TUKE University, trying to find a job, ready to work for food
 - 🌱 I’m currently learning java language
 - My gmail.com - egorka123pro@gmail.com
-- My codewars profile - https://www.codewars.com/users/Protector%20RTD
+- My codewars profile - https://www.codewars.com/users/Protector%20RTD/badges/large
 - My leetcode profile - https://leetcode.com/ProtectorRTD
 
 <!---
