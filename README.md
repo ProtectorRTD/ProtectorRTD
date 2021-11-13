@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning java language
 - My gmail.com - egorka123pro@gmail.com
 - My codewars profile  
-- ![image](https://user-images.githubusercontent.com/72699799/141341128-6e748033-d87b-4aa8-be71-9c6b049985ed.png) https://www.codewars.com/users/Protector%20RTD
+- ![image](https://user-images.githubusercontent.com/72699799/141341128-6e748033-d87b-4aa8-be71-9c6b049985ed.png) 
+- https://www.codewars.com/users/Protector%20RTD
 - My leetcode profile - https://leetcode.com/ProtectorRTD
 
 <!---
