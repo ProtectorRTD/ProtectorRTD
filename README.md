@@ -19,4 +19,6 @@
 
 **Languages and Tools:**  
 
-<code><img src="https://www.logicbig.com/tutorials/java-swing/images/swing.png" alt="bash" width="40" height="40"/></code>
+<code><img src="https://www.logicbig.com/tutorials/java-swing/images/swing.png" alt="bash" width="60" height="60"/></code>
+<code><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" alt="bash" width="60" height="60"/></code>
+<code><img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="bash" width="60" height="60"/></code>
