@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi there 👋, I'm Protector RTD!</h2>
 
-<a href="https://www.codewars.com/users/Protector%20RTD" target="blank">Codewars profile: <img align="center" src="https://docs.codewars.com/logo.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Protector%20RTD" target="blank">Codewars profile: <img align="center" src="https://docs.codewars.com/logo.svg" alt="Medium" height="60" width="60" /></a>
 
 
 <h2>🏆 Github Profile Trophy</h2>
