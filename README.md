@@ -19,7 +19,7 @@
 
 ## Repos
 
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=FastFingers&show_owner=true)](https://github.com/ProtectorRTD/FastFingers)
+[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=FastFingers&show_owner=true)](https://github.com/ProtectorRTD/FastFingers)
 
 
 **Languages and Tools:**  
