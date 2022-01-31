@@ -3,6 +3,9 @@
 <h2 align="center">Hi there 👋, I'm Protector RTD!</h2>
 
 
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=ProtectorRTD&column=9&theme=gruvbox&no-frame=true"/>
 
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProtectorRTD&show_icons=true&theme=tokyonight)
 
 
