@@ -20,7 +20,7 @@
 ## Repos
 
 [![FastFingers](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=FastFingers&show_owner=true)](https://github.com/ProtectorRTD/FastFingers)
-[![Codewars](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=Сodewars&show_owner=true)](https://github.com/ProtectorRTD/Codewars)
+[![Codewars](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=Codewars&show_owner=true)](https://github.com/ProtectorRTD/Codewars)
 [![2048_C](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=2048_C&show_owner=true)](https://github.com/ProtectorRTD/2048_C)
 
 
