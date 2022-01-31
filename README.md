@@ -2,6 +2,8 @@
 
 <h2 align="center">Hi there 👋, I'm Protector RTD!</h2>
 
+<a href="https://www.codewars.com/users/Protector%20RTD" target="blank">Codewars profile: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a>
+
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ProtectorRTD&column=9&theme=gruvbox&no-frame=true"/>
