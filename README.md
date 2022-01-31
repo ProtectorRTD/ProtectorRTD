@@ -19,7 +19,8 @@
 
 ## Repos
 
-[![FastFingers](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=fastapi-web-starter&show_owner=true)](https://github.com/ProtectorRTD/FastFingers)
+[![FastFingers](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=
+FastFingers&show_owner=true)](https://github.com/ProtectorRTD/FastFingers)
 
 **Languages and Tools:**  
 
