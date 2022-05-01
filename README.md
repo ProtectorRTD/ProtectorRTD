@@ -20,7 +20,7 @@
 ## Repos
 
 [![ProjectEllenTUKE](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=ProjectEllenTUKE&show_owner=true)](https://github.com/ProtectorRTD/ProjectEllenTUKE)
-[![Codewars](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=Codewars&show_owner=true)](https://github.com/ProtectorRTD/Codewars)
+[![DataStructureProtector](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=DataStructureProtector&show_owner=true)](https://github.com/ProtectorRTD/DataStructureProtector)
 [![2048_C](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=2048_C&show_owner=true)](https://github.com/ProtectorRTD/2048_C)
 [![bmp_file](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=bmp_file&show_owner=true)](https://github.com/ProtectorRTD/bmp_file)
 
