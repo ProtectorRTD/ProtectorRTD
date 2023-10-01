@@ -7,9 +7,6 @@
 <a href="https://leetcode.com/ProtectorRTD/" target="blank">LeetCode : <img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="Medium" height="60" width="60" /></a>
 
 
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ProtectorRTD&column=9&theme=gruvbox&no-frame=true"/>
-
 ![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProtectorRTD&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtectorRTD&layout=compact)
@@ -20,9 +17,6 @@
 ## Repos
 
 [![ProjectEllenTUKE](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=ProjectEllenTUKE&show_owner=true)](https://github.com/ProtectorRTD/ProjectEllenTUKE)
-[![DataStructureProtector](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=DataStructureProtector&show_owner=true)](https://github.com/ProtectorRTD/DataStructureProtector)
 [![2048_C](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=2048_C&show_owner=true)](https://github.com/ProtectorRTD/2048_C)
 [![bmp_file](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=bmp_file&show_owner=true)](https://github.com/ProtectorRTD/bmp_file)
-[![ReaderJsonFile](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=ReaderJsonFile&show_owner=true)](https://github.com/ProtectorRTD/ReaderJsonFile)
-[![FastFingers](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=FastFingers&show_owner=true)](https://github.com/ProtectorRTD/FastFingers)
 
