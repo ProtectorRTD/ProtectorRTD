@@ -13,10 +13,3 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProtectorRTD&theme=neon-palenight&hide_border=true)
 
-
-## Repos
-
-[![ProjectEllenTUKE](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=ProjectEllenTUKE&show_owner=true)](https://github.com/ProtectorRTD/ProjectEllenTUKE)
-[![2048_C](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=2048_C&show_owner=true)](https://github.com/ProtectorRTD/2048_C)
-[![bmp_file](https://github-readme-stats.vercel.app/api/pin/?username=ProtectorRTD&repo=bmp_file&show_owner=true)](https://github.com/ProtectorRTD/bmp_file)
-
