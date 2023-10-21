@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Beginner+java+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=JAVA+Developer.++++++++++)](https://git.io/typing-svg)
 
 <a href="https://www.codewars.com/users/Protector%20RTD" target="blank">Codewars profile: <img align="center" src="https://docs.codewars.com/logo.svg" alt="Medium" height="60" width="60" /></a>
 
