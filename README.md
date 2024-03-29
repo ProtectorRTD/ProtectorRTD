@@ -26,7 +26,7 @@
 <h2 align="center">My Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ProtectorRTD&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <h2 align="center">Get in Touch</h2>
