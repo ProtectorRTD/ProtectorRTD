@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm a JAVA Developer</h1>
+<h1 align="center">👋 Hi there! I'm a Protector RTD</h1>
 
 <p align="center">
   <a href="https://www.codewars.com/users/Protector%20RTD" target="_blank">
